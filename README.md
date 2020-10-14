@@ -1,5 +1,5 @@
-# Secure-File-Store
-Key-Value Store written in go that allows file appending and sharing.
+# Key-Value-Fortress
+Secure Key-Value Store written in go that allows file appending and sharing.
 
 
 Problem Statement:
